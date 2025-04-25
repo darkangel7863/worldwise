@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,127 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "ebee",
+      "cityName": "Dayr al Balaḩ",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-04-25T15:02:39.377Z",
+      "notes": "War\n",
+      "position": {
+        "lat": "31.430729611316412",
+        "lng": "34.40120778340056"
+      }
+    },
+    {
+      "id": "a56d",
+      "cityName": "Dayr al Balaḩ",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-04-25T15:02:39.377Z",
+      "notes": "War\n",
+      "position": {
+        "lat": "31.430729611316412",
+        "lng": "34.40120778340056"
+      }
+    },
+    {
+      "id": "1692",
+      "cityName": "Dayr al Balaḩ",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-04-25T15:02:39.377Z",
+      "notes": "War\n",
+      "position": {
+        "lat": "31.430729611316412",
+        "lng": "34.40120778340056"
+      }
+    },
+    {
+      "id": "7145",
+      "cityName": "Rafaḩ",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-04-25T15:03:17.208Z",
+      "notes": "",
+      "position": {
+        "lat": "31.198425286832624",
+        "lng": "34.118235808910654"
+      }
+    },
+    {
+      "id": "68f3",
+      "cityName": "Israel and The Palestinian Territories",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2025-04-25T15:03:48.941Z",
+      "notes": "",
+      "position": {
+        "lat": "32.40547868264044",
+        "lng": "34.82170151496634"
+      }
+    },
+    {
+      "id": "c7c3",
+      "cityName": "Bet Shemesh",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2025-04-25T15:06:17.140Z",
+      "notes": "",
+      "position": {
+        "lat": "31.807208400096282",
+        "lng": "34.983563842590264"
+      }
+    },
+    {
+      "id": "bdd4",
+      "cityName": "Salfit",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-04-25T15:07:39.805Z",
+      "notes": "",
+      "position": {
+        "lat": "32.15917457971693",
+        "lng": "35.15110724458041"
+      }
+    },
+    {
+      "id": "ae21",
+      "cityName": "Salfit",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-04-25T15:07:43.697Z",
+      "notes": "",
+      "position": {
+        "lat": "32.15917457971693",
+        "lng": "35.15110724458041"
+      }
+    },
+    {
+      "id": "1beb",
+      "cityName": "Kozakli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-04-25T15:09:43.587Z",
+      "notes": "",
+      "position": {
+        "lat": "39.12967746381121",
+        "lng": "34.872846905065956"
+      }
+    },
+    {
+      "id": "27a7",
+      "cityName": "Chelyadinovo",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2025-04-25T15:09:47.888Z",
+      "notes": "",
+      "position": {
+        "lat": "45.18163362464487",
+        "lng": "36.235713425393136"
+      }
     }
   ]
 }
