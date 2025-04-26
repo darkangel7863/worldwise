@@ -1,159 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "ebee",
-      "cityName": "Dayr al Balaḩ",
-      "country": "Palestine, State of",
-      "emoji": "🇵🇸",
-      "date": "2025-04-25T15:02:39.377Z",
-      "notes": "War\n",
-      "position": {
-        "lat": "31.430729611316412",
-        "lng": "34.40120778340056"
-      }
-    },
-    {
-      "id": "a56d",
-      "cityName": "Dayr al Balaḩ",
-      "country": "Palestine, State of",
-      "emoji": "🇵🇸",
-      "date": "2025-04-25T15:02:39.377Z",
-      "notes": "War\n",
-      "position": {
-        "lat": "31.430729611316412",
-        "lng": "34.40120778340056"
-      }
-    },
-    {
-      "id": "1692",
-      "cityName": "Dayr al Balaḩ",
-      "country": "Palestine, State of",
-      "emoji": "🇵🇸",
-      "date": "2025-04-25T15:02:39.377Z",
-      "notes": "War\n",
-      "position": {
-        "lat": "31.430729611316412",
-        "lng": "34.40120778340056"
-      }
-    },
-    {
-      "id": "7145",
-      "cityName": "Rafaḩ",
+      "id": "d1d0",
+      "cityName": "Marsa Maţruḩ",
       "country": "Egypt",
       "emoji": "🇪🇬",
-      "date": "2025-04-25T15:03:17.208Z",
-      "notes": "",
+      "date": "2023-08-01T15:23:55.000Z",
+      "notes": "Great Summer !",
       "position": {
-        "lat": "31.198425286832624",
-        "lng": "34.118235808910654"
+        "lat": "31.361568911231586",
+        "lng": "27.307398286370002"
       }
     },
     {
-      "id": "68f3",
-      "cityName": "Israel and The Palestinian Territories",
-      "country": "Israel",
-      "emoji": "🇮🇱",
-      "date": "2025-04-25T15:03:48.941Z",
-      "notes": "",
+      "id": "5c39",
+      "cityName": "Al ‘Alamayn",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-06T21:00:00.000Z",
+      "notes": "On the trip to new Alamyin😊",
       "position": {
-        "lat": "32.40547868264044",
-        "lng": "34.82170151496634"
+        "lat": "30.975009715237327",
+        "lng": "28.75808425776963"
       }
     },
     {
-      "id": "c7c3",
-      "cityName": "Bet Shemesh",
-      "country": "Israel",
-      "emoji": "🇮🇱",
-      "date": "2025-04-25T15:06:17.140Z",
-      "notes": "",
+      "id": "370c",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-04-26T10:28:19.580Z",
+      "notes": "Lived there most of my life.",
       "position": {
-        "lat": "31.807208400096282",
-        "lng": "34.983563842590264"
-      }
-    },
-    {
-      "id": "bdd4",
-      "cityName": "Salfit",
-      "country": "Palestine, State of",
-      "emoji": "🇵🇸",
-      "date": "2025-04-25T15:07:39.805Z",
-      "notes": "",
-      "position": {
-        "lat": "32.15917457971693",
-        "lng": "35.15110724458041"
-      }
-    },
-    {
-      "id": "ae21",
-      "cityName": "Salfit",
-      "country": "Palestine, State of",
-      "emoji": "🇵🇸",
-      "date": "2025-04-25T15:07:43.697Z",
-      "notes": "",
-      "position": {
-        "lat": "32.15917457971693",
-        "lng": "35.15110724458041"
-      }
-    },
-    {
-      "id": "1beb",
-      "cityName": "Kozakli",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2025-04-25T15:09:43.587Z",
-      "notes": "",
-      "position": {
-        "lat": "39.12967746381121",
-        "lng": "34.872846905065956"
-      }
-    },
-    {
-      "id": "27a7",
-      "cityName": "Chelyadinovo",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2025-04-25T15:09:47.888Z",
-      "notes": "",
-      "position": {
-        "lat": "45.18163362464487",
-        "lng": "36.235713425393136"
+        "lat": "30.02891573326556",
+        "lng": "31.401273510262996"
       }
     }
   ]
